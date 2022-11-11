@@ -1,7 +1,7 @@
 # Lab05bvst.py
 # The "Sieve of Eratosthenes" Program
-# This is the student-starting file of the Lab05b assignment.
-#
+# This program names all primes from 1-n
+# Evin Lodder 11/10
 #
 # Function <computePrimes> first creates a list of True elements.
 # Nested loops alter the multiples of any prime number to False.
